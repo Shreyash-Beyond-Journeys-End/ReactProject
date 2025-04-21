@@ -12,7 +12,7 @@ export default {
         'game-secondary': '#4f46e5',
         'game-accent': '#8b5cf6',
         'game-dark': '#1f2937',
-        'game-light': '#f3f4f6',
+        'game-light': '#f3f4f6', 
       },
       animation: {
         'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
